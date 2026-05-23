@@ -5,11 +5,34 @@
 </p>
 
 <p align="center">
-  
-  ![ESP32](https://img.shields.io/badge/ESP32-IOT-blue?style=for-the-badge)
-  ![C++](https://img.shields.io/badge/C++-OOP-orange?style=for-the-badge)
-  ![LED MATRIX](https://img.shields.io/badge/MAX7219-LED_MATRIX-red?style=for-the-badge)
-  ![STATUS](https://img.shields.io/badge/STATUS-FINAL-success?style=for-the-badge)
+
+<a href="Config.h">
+  <img src="https://img.shields.io/badge/ESP32-CONFIG-blue?style=for-the-badge">
+</a>
+
+<a href="ESP32_LED_SYSTEM.ino">
+  <img src="https://img.shields.io/badge/IOT-MAIN_CODE-0A84FF?style=for-the-badge">
+</a>
+
+<a href="ModeBase.h">
+  <img src="https://img.shields.io/badge/C++-MODE_BASE-orange?style=for-the-badge">
+</a>
+
+<a href="Scrolling_Text.h">
+  <img src="https://img.shields.io/badge/OOP-SCROLLING_TEXT-ff6b00?style=for-the-badge">
+</a>
+
+<a href="Real_Time_Clock.h">
+  <img src="https://img.shields.io/badge/MAX7219-RTC-red?style=for-the-badge">
+</a>
+
+<a href="Temp_Humid.h">
+  <img src="https://img.shields.io/badge/LED_MATRIX-TEMP_HUMID-darkred?style=for-the-badge">
+</a>
+
+<a href="Mode_Sound.h">
+  <img src="https://img.shields.io/badge/STATUS-MODE_SOUND-brightgreen?style=for-the-badge">
+</a>
 
 </p>
 
@@ -17,9 +40,9 @@
 
 # 📖 Overview
 
-Hệ thống LED Matrix thông minh được phát triển trên nền tảng **ESP32** kết hợp lập trình hướng đối tượng (**OOP**) nhằm tạo ra một mô hình hiển thị hiện đại, trực quan và dễ mở rộng.
+Hệ thống LED Matrix thông minh được phát triển trên nền tảng ESP32 kết hợp lập trình hướng đối tượng (OOP), mang đến khả năng hiển thị trực quan, hiện đại và dễ dàng mở rộng chức năng trong tương lai.
 
-Dự án tích hợp nhiều chế độ hoạt động khác nhau như hiển thị văn bản chạy chữ, đồng hồ thời gian thực, cảm biến môi trường và hiệu ứng LED theo âm thanh.
+Dự án tích hợp nhiều chế độ hoạt động khác nhau như chạy chữ LED Matrix, đồng hồ thời gian thực, cảm biến nhiệt độ - độ ẩm và hiệu ứng LED theo âm thanh.
 
 ---
 
@@ -29,7 +52,7 @@ Dự án tích hợp nhiều chế độ hoạt động khác nhau như hiển t
 - ⏰ Real Time Clock
 - 🌡️ Temperature & Humidity Monitor
 - 🎵 Sound Reactive LED Effects
-- ⚡ High Performance ESP32 Control
+- ⚡ ESP32 High Performance Control
 - 🧠 Object-Oriented Programming Design
 
 ---
@@ -58,3 +81,7 @@ ESP32_Matrix_Led7219_Final
 │── Temp_Humid.h
 │── Mode_Sound.h
 │── ESP32_LED_SYSTEM.ino
+│── README.md
+│
+└── image
+    └── Photo.jpg

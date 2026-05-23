@@ -48,10 +48,10 @@ int brightness = 4;
 // MODE OBJECTS
 // ======================================================
 
-ModeText   mText;
-ModeClock  mClock;
+ScollingText mText;
+ModeClock mClock;
 ModeSensor mSensor;
-ModeMusic  mMusic;
+ModeMusic mMusic;
 
 DoubleHeightMode* currentModePtr = nullptr;
 

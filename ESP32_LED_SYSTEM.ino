@@ -49,9 +49,9 @@ int brightness = 4;
 // ======================================================
 
 ScollingText mText;
-ModeClock mClock;
-ModeSensor mSensor;
-ModeMusic mMusic;
+Real_Time_Clock mClock;
+Temp_Humid mSensor;
+Mode_Sound mMusic;
 
 DoubleHeightMode* currentModePtr = nullptr;
 

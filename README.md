@@ -85,11 +85,15 @@ ESP32_Matrix_Led7219_Final
 │
 └── image
     └── Photo.jpg
----
-
+```   
 # 🎬 Demo Video
 
-▶️ Watch Project Demo Here:  
-[ESP32 Matrix LED7219 Demo](https://youtube.com/your-link)
+<p align="center">
+
+<a href="https://youtube.com/your-link">
+  <img src="https://img.shields.io/badge/▶_WATCH_PROJECT_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</p>
 
 ---

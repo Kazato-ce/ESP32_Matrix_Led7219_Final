@@ -103,12 +103,12 @@ ESP32_Matrix_Led7219_Final
 
 <p align="center">
 
-<a href="https://github.com/Kazato-ce">🔥 Nguyễn Đoàn Thanh Phong</a><br>
-<a href="https://github.com/your-github-2">⚡ Đặng Thế Tú </a><br>
-<a href="https://github.com/your-github-3">🚀 Lý Hoàng Em </a><br>
-<a href="https://github.com/your-github-4">💻 Nguyễn Văn Đức </a><br>
-<a href="https://github.com/your-github-5">🛠 Nguyễn Tiến Đức </a><br>
-<a href="https://github.com/your-github-6">🎵 Nguyễn Tiến Dũng</a><br>
+<a href="https://github.com/Kazato-ce" style="text-decoration: none;">🔥 Nguyễn Đoàn Thanh Phong</a><br>
+<a href="" style="text-decoration: none;">⚡ Đặng Thế Tú</a><br>
+<a href="" style="text-decoration: none;">🚀 Lý Hoàng Em</a><br>
+<a href="" style="text-decoration: none;">💻 Nguyễn Văn Đức</a><br>
+<a href="" style="text-decoration: none;">🛠 Nguyễn Tiến Đức</a><br>
+<a href="" style="text-decoration: none;">🎵 Nguyễn Tiến Dũng</a><br>
 
 </p>
 
